@@ -19,4 +19,6 @@ Please cite our paper if you find the code or dataset useful for your research.
   keywords={Tensors;Feature extraction;Convolution;Computational modeling;Adaptation models;Recurrent neural networks;Logic gates;Attention mechanism;convolutional long short-term memory;hyperspectral image classification;lightweight cell;performance recovery;tensor representation},<br>
   doi={10.1109/JSTSP.2021.3063805}}
 
+# Requirements
+  Tensorflow V1
 # Note
