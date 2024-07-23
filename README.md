@@ -1,5 +1,7 @@
 # Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification
 
+Paper web page: [Lightweight Tensor Attention-Driven ConvLSTM Neural Network for Hyperspectral Image Classification.](https://ieeexplore.ieee.org/document/9369839)
+
 Related code will be released gradually.
 
 # Abstract:
